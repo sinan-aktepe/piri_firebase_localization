@@ -1,0 +1,538 @@
+{
+    "@@locale": "ur",
+    "@@last_modified": "2024-02-04T10:25:05.122670",
+    "accessDisabledErrorText": "اس اکاؤنٹ تک رسائی کو عارضی طور پر غیر فعال کر دیا گیا ہے۔",
+    "@accessDisabledErrorText": {
+      "description": "Used as an error message when account is blocked and user tries to perform some actions with the account (e.g. unlinking a credential).",
+      "placeholders": {}
+    },
+    "arrayLabel": "صف",
+    "@arrayLabel": {
+      "description": "",
+      "placeholders": {}
+    },
+    "booleanLabel": "bool",
+    "@booleanLabel": {
+      "description": "",
+      "placeholders": {}
+    },
+    "cancelLabel": "منسوخ",
+    "@cancelLabel": {
+      "description": "",
+      "placeholders": {}
+    },
+    "chooseACountry": "ملک منتخب کریں۔",
+    "@chooseACountry": {
+      "description": "Used as a label of the country code picker dropdown.",
+      "placeholders": {}
+    },
+    "confirmPasswordDoesNotMatchErrorText": "پاس ورڈز مماثل نہیں ہیں۔",
+    "@confirmPasswordDoesNotMatchErrorText": {
+      "description": "Used as an error text when provided passwords do not match.",
+      "placeholders": {}
+    },
+    "confirmPasswordInputLabel": "پاس ورڈ کی تصدیق کریں۔",
+    "@confirmPasswordInputLabel": {
+      "description": "Used as a label of the PasswordInput that confirms a provided password.",
+      "placeholders": {}
+    },
+    "confirmPasswordIsRequiredErrorText": "اپنے پاس ورڈ کی تصدیق کریں۔",
+    "@confirmPasswordIsRequiredErrorText": {
+      "description": "Used as an error text when PasswordInput used to confirm the password is empty.",
+      "placeholders": {}
+    },
+    "continueText": "جاری رکھیں",
+    "@continueText": {
+      "description": "Used as a label of the submit button that takes the user to the next step of the authenticatiion flow.",
+      "placeholders": {}
+    },
+    "countryCode": "کوڈ",
+    "@countryCode": {
+      "description": "Used as a placeholder of the country code input.",
+      "placeholders": {}
+    },
+    "credentialAlreadyInUseErrorText": "یہ فراہم کنندہ ایک مختلف صارف اکاؤنٹ سے وابستہ ہے۔",
+    "@credentialAlreadyInUseErrorText": {
+      "description": "Error text that is show when user tries to use an OAuth provider that doesn't belong to currently signed in user account.",
+      "placeholders": {}
+    },
+    "deleteAccount": "اکاؤنٹ حذف کریں",
+    "@deleteAccount": {
+      "description": "Used as a label of the DeleteAccountButton.",
+      "placeholders": {}
+    },
+    "differentMethodsSignInTitleText": "سائن ان کرنے کے لیے درج ذیل طریقوں میں سے کوئی ایک استعمال کریں۔",
+    "@differentMethodsSignInTitleText": {
+      "description": "Used as a title of the dialog that indicates that there are different available sign in methods for a provided email.",
+      "placeholders": {}
+    },
+    "disable": "غیر فعال",
+    "@disable": {
+      "description": "Button label that suggests to disable 2FA",
+      "placeholders": {}
+    },
+    "eastInitialLabel": "ڈی",
+    "@eastInitialLabel": {
+      "description": "",
+      "placeholders": {}
+    },
+    "emailInputLabel": "ای میل ایڈریس",
+    "@emailInputLabel": {
+      "description": "Used as a label of the EmailInput.",
+      "placeholders": {}
+    },
+    "emailIsRequiredErrorText": "ای میل ایڈریس درکار ہے۔",
+    "@emailIsRequiredErrorText": {
+      "description": "Used as an error text of the EmailInput when the email is empty.",
+      "placeholders": {}
+    },
+    "emailLinkSignInButtonLabel": "لنک کے ساتھ سائن ان کریں۔",
+    "@emailLinkSignInButtonLabel": {
+      "description": "Used as a label of the EmailLinkSignInButton.",
+      "placeholders": {}
+    },
+    "emailTakenErrorText": "اس ای میل ایڈریس کے ساتھ پہلے سے ہی ایک اکاؤنٹ وابستہ ہے۔",
+    "@emailTakenErrorText": {
+      "description": "Used as an error message when the user tries to sign up with an email that is already used.",
+      "placeholders": {}
+    },
+    "enable": "چالو",
+    "@enable": {
+      "description": "Button label that suggests to enable 2FA",
+      "placeholders": {}
+    },
+    "enableMoreSignInMethods": "دوسرے سائن ان طریقوں کو فعال کریں۔",
+    "@enableMoreSignInMethods": {
+      "description": "Used as a hint to connect more providers.",
+      "placeholders": {}
+    },
+    "enterSMSCodeText": "ایس ایم ایس کوڈ درج کریں۔",
+    "@enterSMSCodeText": {
+      "description": "Used as a label of the SMSCodeInput.",
+      "placeholders": {}
+    },
+    "findProviderForEmailTitleText": "جاری رکھنے کے لیے اپنا ای میل ایڈریس درج کریں۔",
+    "@findProviderForEmailTitleText": {
+      "description": "Used as a title of the FindProvidersForEmailView.",
+      "placeholders": {}
+    },
+    "forgotPasswordButtonLabel": "اپنا پاس ورڈ بھول گئے؟",
+    "@forgotPasswordButtonLabel": {
+      "description": "Used as a label of the ForgotPasswordButton.",
+      "placeholders": {}
+    },
+    "forgotPasswordHintText": "اپنا ای میل ایڈریس درج کریں۔ ہم آپ کو اپنا پاس ورڈ دوبارہ ترتیب دینے کے لیے ایک لنک بھیجیں گے۔",
+    "@forgotPasswordHintText": {
+      "description": "Used as a hint on a ForgotPasswordView.",
+      "placeholders": {}
+    },
+    "forgotPasswordViewTitle": "میں اپنا پاس ورڈ بھول گیا ہوں۔",
+    "@forgotPasswordViewTitle": {
+      "description": "Used as a title of the ForgotPasswordView.",
+      "placeholders": {}
+    },
+    "geopointLabel": "جغرافیائی نقطہ",
+    "@geopointLabel": {
+      "description": "",
+      "placeholders": {}
+    },
+    "goBackButtonLabel": "واپس آو",
+    "@goBackButtonLabel": {
+      "description": "Used as a label of the back button.",
+      "placeholders": {}
+    },
+    "@hashCode": {
+      "description": "The hash code for this object.",
+      "placeholders": {}
+    },
+    "invalidCountryCode": "غلط کوڈ",
+    "@invalidCountryCode": {
+      "description": "Used as an error text when provide country code is invalid.",
+      "placeholders": {}
+    },
+    "isNotAValidEmailErrorText": "ایک درست ای میل ایڈریس درج کریں۔",
+    "@isNotAValidEmailErrorText": {
+      "description": "Used as an error text of the EmailInput if the provided email is not valid.",
+      "placeholders": {}
+    },
+    "latitudeLabel": "عرض بلد",
+    "@latitudeLabel": {
+      "description": "",
+      "placeholders": {}
+    },
+    "linkEmailButtonText": "اگلا",
+    "@linkEmailButtonText": {
+      "description": "Used as a label of the EmailForm submit button when the AuthAction is AuthAction.link.",
+      "placeholders": {}
+    },
+    "longitudeLabel": "طول البلد",
+    "@longitudeLabel": {
+      "description": "",
+      "placeholders": {}
+    },
+    "mapLabel": "نقشہ",
+    "@mapLabel": {
+      "description": "",
+      "placeholders": {}
+    },
+    "mfaTitle": "2 قدمی توثیق",
+    "@mfaTitle": {
+      "description": "2-step verification settings tile title.",
+      "placeholders": {}
+    },
+    "name": "نام",
+    "@name": {
+      "description": "Used as a placeholder of the EditableUserDisplayName.",
+      "placeholders": {}
+    },
+    "northInitialLabel": "کے",
+    "@northInitialLabel": {
+      "description": "",
+      "placeholders": {}
+    },
+    "nullLabel": "خالی",
+    "@nullLabel": {
+      "description": "",
+      "placeholders": {}
+    },
+    "numberLabel": "نمبر",
+    "@numberLabel": {
+      "description": "",
+      "placeholders": {}
+    },
+    "off": "بند",
+    "@off": {
+      "description": "Label that suggests that 2-step verification is not enabled",
+      "placeholders": {}
+    },
+    "on": "کھولیں۔",
+    "@on": {
+      "description": "Label that suggests that 2-step verification is enabled",
+      "placeholders": {}
+    },
+    "passwordInputLabel": "پاس ورڈ",
+    "@passwordInputLabel": {
+      "description": "Used as a label of the PasswordInput.",
+      "placeholders": {}
+    },
+    "passwordIsRequiredErrorText": "پاس ورڈ درکار ہے۔",
+    "@passwordIsRequiredErrorText": {
+      "description": "Used as an error text when PasswordInput is empty.",
+      "placeholders": {}
+    },
+    "passwordResetEmailSentText": "ہم نے آپ کا پاس ورڈ دوبارہ ترتیب دینے کے لیے آپ کے ای میل ایڈریس پر ایک لنک بھیجا ہے۔ براہ کرم اپنا ای میل ان باکس چیک کریں۔",
+    "@passwordResetEmailSentText": {
+      "description": "Indicates that the password reset email was sent.",
+      "placeholders": {}
+    },
+    "phoneInputLabel": "فون نمبر",
+    "@phoneInputLabel": {
+      "description": "Used as a label of the PhoneInput.",
+      "placeholders": {}
+    },
+    "phoneNumberInvalidErrorText": "فون نمبر غلط ہے۔",
+    "@phoneNumberInvalidErrorText": {
+      "description": "Used as an error text when PhoneInput contains an invalid phone number.",
+      "placeholders": {}
+    },
+    "phoneNumberIsRequiredErrorText": "فون نمبر درکار ہے۔",
+    "@phoneNumberIsRequiredErrorText": {
+      "description": "Used as an error text when PhoneInput is empty.",
+      "placeholders": {}
+    },
+    "phoneVerificationViewTitleText": "اپنا فون نمبر درج کریں۔",
+    "@phoneVerificationViewTitleText": {
+      "description": "Used as a title of the PhoneInputView.",
+      "placeholders": {}
+    },
+    "profile": "پروفائل",
+    "@profile": {
+      "description": "A title of the ProfileScreen.",
+      "placeholders": {}
+    },
+    "provideEmail": "اپنا ای میل ایڈریس اور پاس ورڈ درج کریں۔",
+    "@provideEmail": {
+      "description": "Used as a title of the EmailSignUpDialog.",
+      "placeholders": {}
+    },
+    "referenceLabel": "حوالہ",
+    "@referenceLabel": {
+      "description": "",
+      "placeholders": {}
+    },
+    "registerActionText": "سائن اپ کریں۔",
+    "@registerActionText": {
+      "description": "Used as a label of the EmailForm submit button when the AuthAction is AuthAction.signUp.",
+      "placeholders": {}
+    },
+    "registerHintText": "اکاؤنٹ نہیں ہے؟",
+    "@registerHintText": {
+      "description": "Used as a hint text of the LoginView suggesting to create a new account.",
+      "placeholders": {}
+    },
+    "registerText": "سائن اپ کریں۔",
+    "@registerText": {
+      "description": "Used as a title of the LoginView when AuthAction is AuthAction.signUp.",
+      "placeholders": {}
+    },
+    "resetPasswordButtonLabel": "پاس ورڈ دوبارہ ترتیب دیں",
+    "@resetPasswordButtonLabel": {
+      "description": "Used as a label of submit button of the ForgotPasswordView.",
+      "placeholders": {}
+    },
+    "@runtimeType": {
+      "description": "A representation of the runtime type of the object.",
+      "placeholders": {}
+    },
+    "sendLinkButtonLabel": "لنک بھیجیں",
+    "@sendLinkButtonLabel": {
+      "description": "Used as a label of the submit button on the EmailLinkSignInView.",
+      "placeholders": {}
+    },
+    "signInActionText": "لاگ ان کریں۔",
+    "@signInActionText": {
+      "description": "Used as a label of the EmailForm submit button when the AuthAction is AuthAction.signIn.",
+      "placeholders": {}
+    },
+    "signInHintText": "کیا آپ کا اکاؤنٹ ہے؟",
+    "@signInHintText": {
+      "description": "Used as a hint text of the LoginView suggesting to sign in instead of registering a new account.",
+      "placeholders": {}
+    },
+    "signInMethods": "لاگ ان کے طریقے",
+    "@signInMethods": {
+      "description": "Used as a label of the row showing connected providers.",
+      "placeholders": {}
+    },
+    "signInText": "سائن ان کریں۔",
+    "@signInText": {
+      "description": "Used as a title of the LoginView when AuthAction is AuthAction.signIn.",
+      "placeholders": {}
+    },
+    "signInWithAppleButtonText": "ایپل کے ساتھ سائن ان کریں۔",
+    "@signInWithAppleButtonText": {
+      "description": "Used as a label of the OAuthProviderButton for Apple provider.",
+      "placeholders": {}
+    },
+    "signInWithEmailLinkSentText": "ہم نے آپ کے ای میل ایڈریس پر ایک لنک بھیج دیا ہے۔ اپنا ای میل ان باکس چیک کریں اور لنک پر کلک کرکے سائن ان کریں۔",
+    "@signInWithEmailLinkSentText": {
+      "description": "Indicates that email with a sign in link was sent.",
+      "placeholders": {}
+    },
+    "signInWithEmailLinkViewTitleText": "لنک کے ساتھ سائن ان کریں۔",
+    "@signInWithEmailLinkViewTitleText": {
+      "description": "Used as a title on the EmailLinkSignInView.",
+      "placeholders": {}
+    },
+    "signInWithFacebookButtonText": "Facebook کے ساتھ سائن ان کریں۔",
+    "@signInWithFacebookButtonText": {
+      "description": "Used as a label of the OAuthProviderButton for Facebook provider.",
+      "placeholders": {}
+    },
+    "signInWithGoogleButtonText": "گوگل کے ساتھ سائن ان کریں۔",
+    "@signInWithGoogleButtonText": {
+      "description": "Used as a label of the OAuthProviderButton for Google provider.",
+      "placeholders": {}
+    },
+    "signInWithPhoneButtonText": "فون کے ذریعے سائن ان کریں۔",
+    "@signInWithPhoneButtonText": {
+      "description": "Used as a label of the PhoneVerificationButton.",
+      "placeholders": {}
+    },
+    "signInWithTwitterButtonText": "ٹویٹر کے ساتھ سائن ان کریں۔",
+    "@signInWithTwitterButtonText": {
+      "description": "Used as a label of the OAuthProviderButton for Twitter provider.",
+      "placeholders": {}
+    },
+    "signOutButtonText": "لاگ آؤٹ کریں۔",
+    "@signOutButtonText": {
+      "description": "Used as a label of the SignOutButton.",
+      "placeholders": {}
+    },
+    "smsAutoresolutionFailedError": "SMS کوڈ کو خود بخود ڈی کوڈ نہیں کیا جا سکا۔ براہ کرم اپنا کوڈ دستی طور پر درج کریں۔",
+    "@smsAutoresolutionFailedError": {
+      "description": "Used as an error text when AutoresolutionFailedException is being thrown.",
+      "placeholders": {}
+    },
+    "southInitialLabel": "جی",
+    "@southInitialLabel": {
+      "description": "",
+      "placeholders": {}
+    },
+    "stringLabel": "تار",
+    "@stringLabel": {
+      "description": "",
+      "placeholders": {}
+    },
+    "timestampLabel": "ٹائم سٹیمپ",
+    "@timestampLabel": {
+      "description": "",
+      "placeholders": {}
+    },
+    "typeLabel": "قسم",
+    "@typeLabel": {
+      "description": "",
+      "placeholders": {}
+    },
+    "unknownError": "ایک نامعلوم خرابی پیش آگئی",
+    "@unknownError": {
+      "description": "Used as a generic error message when unable to resolve error details from Exception or FirebaseAuthException.",
+      "placeholders": {}
+    },
+    "updateLabel": "اپ ڈیٹ",
+    "@updateLabel": {
+      "description": "",
+      "placeholders": {}
+    },
+    "userNotFoundErrorText": "اکاؤنٹ نہیں ملا",
+    "@userNotFoundErrorText": {
+      "description": "Used as an error message when the account for provided email was not found.",
+      "placeholders": {}
+    },
+    "valueLabel": "قدر",
+    "@valueLabel": {
+      "description": "",
+      "placeholders": {}
+    },
+    "verifyCodeButtonText": "تصدیق کریں",
+    "@verifyCodeButtonText": {
+      "description": "Used as a label of the submit button of the SMSCodeInputView.",
+      "placeholders": {}
+    },
+    "verifyingSMSCodeText": "ایس ایم ایس کوڈ کی تصدیق ہو رہی ہے...",
+    "@verifyingSMSCodeText": {
+      "description": "Used as a status text of the SMSCodeInput when code verification is in progress.",
+      "placeholders": {}
+    },
+    "verifyItsYouText": "تصدیق کریں کہ آپ ہیں۔",
+    "@verifyItsYouText": {
+      "description": "Used as a title of the dialog that requires re-authentication of the user when performing destructive actions.",
+      "placeholders": {}
+    },
+    "verifyPhoneNumberButtonText": "اگلا",
+    "@verifyPhoneNumberButtonText": {
+      "description": "Used as a label of the submit button of the PhoneInputView.",
+      "placeholders": {}
+    },
+    "westInitialLabel": "بی۔",
+    "@westInitialLabel": {
+      "description": "",
+      "placeholders": {}
+    },
+    "wrongOrNoPasswordErrorText": "آپ کا درج کردہ پاس ورڈ غلط ہے یا صارف کے پاس پاس ورڈ نہیں ہے۔",
+    "@wrongOrNoPasswordErrorText": {
+      "description": "Used as an error text of the PasswordInput when provided password is empty or is not correct.",
+      "placeholders": {}
+    },
+    "uploadButtonText": "Upload file",
+    "@uploadButtonText": {
+      "description": "UploadButton label",
+      "placeholders": {}
+    },
+    "verifyEmailTitle": "Verify your email",
+    "@verifyEmailTitle": {
+      "description": "EmailVerificationScreen title",
+      "placeholders": {}
+    },
+    "verificationEmailSentText": "A verification email has been sent to your email address. Please check your email and click on the link to verify your email address.",
+    "@verificationEmailSentText": {
+      "description": "Hint text indicating that verification email has been sent",
+      "placeholders": {}
+    },
+    "verificationFailedText": "We couldn't verify your email address. ",
+    "@verificationFailedText": {
+      "description": "Message indicating that something went wrong during email verification",
+      "placeholders": {}
+    },
+    "resendVerificationEmailButtonLabel": "Resend verification email",
+    "@resendVerificationEmailButtonLabel": {
+      "description": "Button label that suggests to resend verification email",
+      "placeholders": {}
+    },
+    "verificationEmailSentTextShort": "Verification email sent",
+    "@verificationEmailSentTextShort": {
+      "description": "Short version of the hint text indicating that verification email has been sent",
+      "placeholders": {}
+    },
+    "emailIsNotVerifiedText": "Email is not verified",
+    "@emailIsNotVerifiedText": {
+      "description": "Message indicating that email is not verified",
+      "placeholders": {}
+    },
+    "waitingForEmailVerificationText": "Waiting for email verification",
+    "@waitingForEmailVerificationText": {
+      "description": "Message indicating that email is being verified",
+      "placeholders": {}
+    },
+    "dismissButtonLabel": "Dismiss",
+    "@dismiss": {
+      "description": "Dissmiss button label",
+      "placeholders": {}
+    },
+    "okButtonLabel": "OK",
+    "@okButtonLabel": {
+      "description": "OK button label",
+      "placeholders": {}
+    },
+    "checkEmailHintText": "Please check your email and click the link to verify your email address.",
+    "@checkEmailHintText": {
+      "description": "Hint text prompting the user to check email for verification link",
+      "placeholders": {}
+    },
+    "doneButtonLabel": "Done",
+    "@doneButtonLabel": {
+      "description": "Done button label",
+      "placeholders": {}
+    },
+    "invalidVerificationCodeErrorText": "The code you entered is invalid. Please try again.",
+    "@invalidVerificationCodeErrorText": {
+      "description": "Error text indicating that entered SMS code is invalid",
+      "placeholders": {}
+    },
+    "ulinkProviderAlertTitle": "Unlink provider",
+    "@ulinkProviderAlertTitle": {
+      "description": "Title that is shown in AlertDialog asking for provider unlink confirmation",
+      "placeholders": {}
+    },
+    "confirmUnlinkButtonLabel": "Unlink",
+    "@confirmUnlinkButtonLabel": {
+      "description": "Unlink confirmation button label",
+      "placeholders": {}
+    },
+    "cancelButtonLabel": "Cancel",
+    "@cancelButtonLabel": {
+      "description": "Cancel button label",
+      "placeholders": {}
+    },
+    "unlinkProviderAlertMessage": "Are you sure you want to unlink this provider?",
+    "@unlinkProviderAlertMessage": {
+      "description": "Text that is shown as a message of the AlertDialog confirming provider unlink",
+      "placeholders": {}
+    },
+    "weakPasswordErrorText": "Password should be at least 6 characters",
+    "@weakPasswordErrorText": {
+      "description": "Error text suggesting that used password is too weak",
+      "placeholders": {}
+    },
+    "confirmDeleteAccountAlertTitle": "Confirm account deletion",
+    "@confirmDeleteAccountAlertTitle": {
+      "description": "Delete account confirmation dialog title",
+      "placeholders": {}
+    },
+    "confirmDeleteAccountAlertMessage": "Are you sure you want to delete your account?",
+    "@confirmDeleteAccountAlertMessage": {
+      "description": "Delete account confirmation dialog message",
+      "placeholders": {}
+    },
+    "confirmDeleteAccountButtonLabel": "Yes, delete",
+    "@confirmDeleteAccountButtonLabel": {
+      "description": "Confirm delete account button label",
+      "placeholders": {}
+    },
+    "sendVerificationEmailLabel": "Send verification email",
+    "@sendVerificationEmailLabel": {
+      "description": "Used as a button label to send a verification email",
+      "placeholders": {}
+    }
+  }
+  
